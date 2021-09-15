@@ -14,20 +14,19 @@ Additional description about the project and its features.
 - Major languages:Html and CSS
 - Technologies used :GIT and GitHup 
 
-## Getting Started
+##To get a local copy up and running follow these simple example steps.
 
-To get a local copy up and running follow these simple example steps.
-
-1.Open the terminal
-2.Run git clone https://github.com/MahmoudBakr23/Hello-Microverse.git
-3.Then run git checkout feature
-Now you can open the index.html file in your browser
+Open the terminal
+1.Run git clone https://github.com/farouqdaif1/Hello-Microverse.git
+2.Then run git checkout add-man-fils
+3.Now you can open the index.html file in your browser
+## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@farouqdaif1](https://github.com/farouqdaif1)
+- Twitter: [@farouqdaif](https://twitter.com/farouqdaif)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/farouqdaif/https://www.linkedin.com/in/farouqdaif/)
 
 
 ## 🤝 Contributing
@@ -39,6 +38,15 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+
+
+
+
+
+
+
+
 
 
 
