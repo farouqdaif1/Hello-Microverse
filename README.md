@@ -14,7 +14,7 @@ Additional description about the project and its features.
 - Major languages:Html and CSS
 - Technologies used :GIT and GitHup 
 
-##To get a local copy up and running follow these simple example steps.
+## To get a local copy up and running follow these simple example steps.
 
 - Open the terminal
 - Run git clone https://github.com/farouqdaif1/Hello-Microverse.git
