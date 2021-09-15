@@ -16,10 +16,10 @@ Additional description about the project and its features.
 
 ##To get a local copy up and running follow these simple example steps.
 
-Open the terminal
-1.Run git clone https://github.com/farouqdaif1/Hello-Microverse.git
-2.Then run git checkout add-man-fils
-3.Now you can open the index.html file in your browser
+- Open the terminal
+- Run git clone https://github.com/farouqdaif1/Hello-Microverse.git
+- Then run git checkout add-man-fils
+- Now you can open the index.html file in your browser
 ## Authors
 
 👤 **Author1**
